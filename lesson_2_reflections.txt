@@ -12,3 +12,9 @@ Untracked files:
 nothing added to commit but untracked files present (use "git add" to track)
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+git show ID => results in diff with the parent without the need for the parent ID
