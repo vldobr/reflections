@@ -18,3 +18,5 @@ What are some situations when branches would be helpful in keeping your history 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 git show ID => results in diff with the parent without the need for the parent ID
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
